@@ -1,0 +1,8 @@
+docx
+PyPDF2
+python-pptx
+langchain
+langchain_community
+langchain_google_genai
+sentence-transformers
+faiss-cpu
